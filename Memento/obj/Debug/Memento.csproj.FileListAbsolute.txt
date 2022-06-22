@@ -1,0 +1,7 @@
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\bin\Debug\Memento.exe.config
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\bin\Debug\Memento.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\bin\Debug\Memento.pdb
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\obj\Debug\Memento.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Memento\Memento\obj\Debug\Memento.pdb
